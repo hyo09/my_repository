@@ -5,7 +5,7 @@
 
 *.txt
 
-# !d.txt
+secret/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
